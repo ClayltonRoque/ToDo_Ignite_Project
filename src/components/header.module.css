@@ -1,0 +1,29 @@
+.header {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    height: 20rem;
+    width: 100%;
+
+    background: var(--gray-700);
+
+    font-size: 40px;
+    font-weight: 900;
+    color: var(--blue-300);
+
+    
+}
+
+.header span {
+    color: var(--purple-700);
+}
+
+
+
+.logo{
+    margin-right: 1.2rem;
+}
+
+
+
